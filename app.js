@@ -3,7 +3,6 @@ const app     = express();
 const port    = 443;
 
 app.get('/', (req, res) => {
-  res.
   res.send('Любишь пельмени?');
 });
 
